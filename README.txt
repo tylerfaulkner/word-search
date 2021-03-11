@@ -1,4 +1,4 @@
-Lab 6 - Word Search
+Created as an individual assignment for class.
 
 The program takes a text file with words seperetad by lines and iterates through
 every combination on a grid of letters to find every combination of letters. 
